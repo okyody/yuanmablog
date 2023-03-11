@@ -1,2 +1,2 @@
 # yuanmablog
-这是一个空白的个人blog源码。
+这是一个搭建BLOG程序的源码
