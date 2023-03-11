@@ -1,2 +1,2 @@
 # yuanmablog
-这是一个搭建BLOG程序的源码
+这是一个搭建BLOG的程序源码
